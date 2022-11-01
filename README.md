@@ -1,5 +1,5 @@
 # Operaciones-con-Conjuntos
-Programa realizado como parte de las actividades semanales de la cátedra 2011 de la materia Estructura de Datos, de la carrera Ingeniería en Computación de la Universidad Nacional de Tres de Febrero.
+Programa realizado como parte de las actividades semanales de la cátedra 2021 de la materia Estructura de Datos, de la carrera Ingeniería en Computación de la Universidad Nacional de Tres de Febrero.
 
 ## Consigna
 
